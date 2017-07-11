@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <RicardoMartins_FacebookPixelImprovements>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Remmote_Facebookpixel/>
+
+            </depends>
+        </RicardoMartins_FacebookPixelImprovements>
+    </modules>
+</config>

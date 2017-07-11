@@ -1,0 +1,5 @@
+app/code/community/RicardoMartins/FacebookPixelImprovements/Block/Facebookpixel/Code.php app/code/community/RicardoMartins/FacebookPixelImprovements/Block/Facebookpixel/Code.php
+app/code/community/RicardoMartins/FacebookPixelImprovements/etc/config.xml app/code/community/RicardoMartins/FacebookPixelImprovements/etc/config.xml
+app/code/community/RicardoMartins/FacebookPixelImprovements/Model/Facebookpixel/Observer.php app/code/community/RicardoMartins/FacebookPixelImprovements/Model/Facebookpixel/Observer.php
+app/etc/modules/RicardoMartins_FacebookPixelImprovements.xml app/etc/modules/RicardoMartins_FacebookPixelImprovements.xml
+README.md README.md

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <RicardoMartins_FacebookPixelImprovements>
+            <version>1.0.0</version>
+        </RicardoMartins_FacebookPixelImprovements>
+    </modules>
+    <global>
+        <blocks>
+            <ricardomartins_facebookpixelimprovements>
+                <class>RicardoMartins_FacebookPixelImprovements_Block</class>
+            </ricardomartins_facebookpixelimprovements>
+            <remmote_facebookpixel>
+                <rewrite>
+                    <code>RicardoMartins_FacebookPixelImprovements_Block_Facebookpixel_Code</code>
+                </rewrite>
+            </remmote_facebookpixel>
+        </blocks>
+        <models>
+            <remmote_facebookpixel>
+                <rewrite>
+                    <observer>RicardoMartins_FacebookPixelImprovements_Model_Facebookpixel_Observer</observer>
+                </rewrite>
+            </remmote_facebookpixel>
+        </models>
+    </global>
+</config>
